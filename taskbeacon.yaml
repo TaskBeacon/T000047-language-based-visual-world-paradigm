@@ -1,0 +1,21 @@
+id: T000047
+slug: language-based-visual-world-paradigm
+title: Language-based Visual World Paradigm
+acquisition: behavior
+variant: baseline
+cognitive_domain:
+  - language
+  - attention
+maturity: draft
+version:
+  release_tag: v0.1.0-dev
+contracts:
+  psyflow_taps: v0.1.0
+evidence:
+  - references/references.yaml
+  - references/references.md
+  - references/parameter_mapping.md
+  - references/stimulus_mapping.md
+  - references/task_logic_audit.md
+  - task_flow.png
+maintainer: []

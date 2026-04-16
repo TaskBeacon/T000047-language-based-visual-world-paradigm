@@ -1,0 +1,148 @@
+task_plot_spec:
+  spec_version: '0.2'
+  meta:
+    task_name: Language-based Visual World Paradigm
+    mode: existing
+    task_id: ''
+  figure:
+    output:
+      filename: task_flow.png
+      dpi: 300
+      width_in: 16.0
+      background: white
+    layout:
+      max_conditions: 2
+      screens_per_timeline: 5
+      screen_overlap_ratio: 0.1
+      screen_slope: 0.08
+      screen_slope_deg: 25.0
+      timeline_gap: 0.18
+      screen_aspect_ratio: 1.4545454545454546
+      left_margin: 0.2
+      right_margin: 0.03
+      top_margin: 0.03
+      bottom_margin: 0.05
+      condition_label_gap: 0.014
+      phase_label_pad: 0.01
+      duration_label_gap: 0.006
+      timeline_arrow_gap: 0.01
+      timeline_arrow_screen_clearance: 0.007
+      timeline_arrow_text_clearance: 0.01
+      timeline_arrow_extra_per_screen: 0.015
+      timeline_arrow_min_y: 0.02
+      timeline_arrow_max_y: 0.96
+  timelines:
+  - condition: scarf_predictive
+    display_condition_label: Scarf Predictive
+    phases:
+    - phase_name: fixation
+      display_phase_label: Fixation
+      duration_ms:
+        fixed: 500
+      response_window_ms: null
+      display_timing_label: 500 ms
+      stim_ids:
+      - fixation
+      stimulus_example:
+        summary: +
+        modality: visual
+        draw_hint: text
+        render_items:
+        - kind: text
+          text: +
+          color: white
+          pos:
+          - 0.0
+          - 0.0
+          height: 44.0
+      notes: ''
+    - phase_name: scene preview
+      display_phase_label: Scene Preview
+      duration_ms:
+        fixed: 1000
+      response_window_ms: null
+      display_timing_label: 1000 ms
+      stim_ids:
+      - scene_cards
+      stimulus_example:
+        summary: '[dynamic:scene_cards]'
+        modality: other
+        draw_hint: annotation
+        render_items:
+        - kind: annotation
+          text: 'Dynamic: scene_cards'
+      notes: ''
+    - phase_name: sentence listening
+      display_phase_label: Sentence Listening
+      duration_ms: null
+      response_window_ms: null
+      display_timing_label: ''
+      stim_ids: []
+      stimulus_example:
+        summary: '[annotation] sentence listening'
+        modality: other
+        draw_hint: annotation
+        render_items:
+        - kind: annotation
+          text: sentence listening
+      notes: ''
+    - phase_name: response selection
+      display_phase_label: Selection
+      duration_ms:
+        fixed: 2500
+      response_window_ms: null
+      display_timing_label: 2500 ms
+      stim_ids:
+      - response_prompt
+      - scene_cards
+      stimulus_example:
+        summary: Which picture was named? Press 1, 2, 3, or 4. + [dynamic:scene_cards]
+        modality: mixed
+        draw_hint: annotation
+        render_items:
+        - kind: text
+          text: Which picture was named? Press 1, 2, 3, or 4.
+          color: white
+          pos:
+          - 0.0
+          - 250.0
+          height: 26.0
+        - kind: annotation
+          text: 'Dynamic: scene_cards'
+      notes: ''
+    - phase_name: iti
+      display_phase_label: ITI
+      duration_ms:
+        fixed: 600
+      response_window_ms: null
+      display_timing_label: 600 ms
+      stim_ids:
+      - fixation
+      stimulus_example:
+        summary: +
+        modality: visual
+        draw_hint: text
+        render_items:
+        - kind: text
+          text: +
+          color: white
+          pos:
+          - 0.0
+          - 0.0
+          height: 44.0
+      notes: ''
+    condition_variants:
+    - scarf_neutral
+    - apple_predictive
+    - apple_neutral
+    - book_predictive
+    - book_neutral
+    - bottle_predictive
+    - bottle_neutral
+    - shoe_predictive
+    - shoe_neutral
+    - guitar_predictive
+    - guitar_neutral
+    display_condition_note: 'Also: Scarf Neutral, Apple Predictive, Apple Neutral,
+      Book Predictive, Book Neutral, Bottle Predictive, Bottle Neutral,…'
+  legend: []

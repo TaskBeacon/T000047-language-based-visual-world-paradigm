@@ -1,0 +1,295 @@
+# ============================================================================
+# Sampler simulation config
+# - Used by: python main.py sim --config config/config_sampler_sim.yaml
+# - Scope: sampler simulation only (no qa section in this file)
+# - Profile: short smoke run for sampler integration checks
+# ============================================================================
+
+# === Subject Form ===========================================================
+subinfo_fields:
+  - name: subject_id
+    type: int
+    constraints:
+      min: 101
+      max: 999
+      digits: 3
+
+subinfo_mapping:
+  subject_id: Subject ID (3 digits)
+  Participant Information: Participant Information
+  registration_failed: Registration failed
+  registration_successful: Registration successful
+  invalid_input: "Invalid input for {field}"
+
+
+# === Display / Window =======================================================
+window:
+  size: [1280, 720]
+  units: pix
+  screen: 0
+  bg_color: black
+  fullscreen: false
+  monitor_width_cm: 35.5
+  monitor_distance_cm: 60
+
+
+# === Task ==================================================================
+task:
+  task_name: "Language-based Visual World Paradigm"
+  save_path: ./outputs/sim
+  total_blocks: 1
+  total_trials: 6
+  trial_per_block: 6
+  conditions:
+    - scarf_predictive
+    - scarf_neutral
+    - apple_predictive
+    - apple_neutral
+    - book_predictive
+    - book_neutral
+  condition_weights: null
+  key_list: [space, "1", "2", "3", "4"]
+  response_keys: ["1", "2", "3", "4"]
+  seed_mode: same_across_sub
+  overall_seed: 2026
+  delta: 0.0
+  language: English
+  voice_name: en-US-AriaNeural
+  voice_enabled: true
+  input_mode: keyboard
+  hide_cursor: true
+  force_quit_enabled: true
+  force_quit_shortcut: ctrl+q
+  enable_logging: true
+  trial_bank:
+    scarf_predictive:
+      family: scarf
+      sentence_text: "The person will fold the scarf."
+      target_label: scarf
+      semantic_competitor_label: hat
+      distractor_labels: [violin, piano]
+    scarf_neutral:
+      family: scarf
+      sentence_text: "The person will find the scarf."
+      target_label: scarf
+      semantic_competitor_label: hat
+      distractor_labels: [violin, piano]
+    apple_predictive:
+      family: apple
+      sentence_text: "The person will bite the apple."
+      target_label: apple
+      semantic_competitor_label: orange
+      distractor_labels: [fork, spoon]
+    apple_neutral:
+      family: apple
+      sentence_text: "The person will find the apple."
+      target_label: apple
+      semantic_competitor_label: orange
+      distractor_labels: [fork, spoon]
+    book_predictive:
+      family: book
+      sentence_text: "The person will read the book."
+      target_label: book
+      semantic_competitor_label: magazine
+      distractor_labels: [lamp, clock]
+    book_neutral:
+      family: book
+      sentence_text: "The person will find the book."
+      target_label: book
+      semantic_competitor_label: magazine
+      distractor_labels: [lamp, clock]
+    bottle_predictive:
+      family: bottle
+      sentence_text: "The person will open the bottle."
+      target_label: bottle
+      semantic_competitor_label: glass
+      distractor_labels: [drum, trumpet]
+    bottle_neutral:
+      family: bottle
+      sentence_text: "The person will find the bottle."
+      target_label: bottle
+      semantic_competitor_label: glass
+      distractor_labels: [drum, trumpet]
+    shoe_predictive:
+      family: shoe
+      sentence_text: "The person will lace the shoe."
+      target_label: shoe
+      semantic_competitor_label: boot
+      distractor_labels: [carrot, tomato]
+    shoe_neutral:
+      family: shoe
+      sentence_text: "The person will find the shoe."
+      target_label: shoe
+      semantic_competitor_label: boot
+      distractor_labels: [carrot, tomato]
+    guitar_predictive:
+      family: guitar
+      sentence_text: "The person will tune the guitar."
+      target_label: guitar
+      semantic_competitor_label: violin
+      distractor_labels: [pillow, blanket]
+    guitar_neutral:
+      family: guitar
+      sentence_text: "The person will find the guitar."
+      target_label: guitar
+      semantic_competitor_label: violin
+      distractor_labels: [pillow, blanket]
+  layout:
+    card_width_px: 240
+    card_height_px: 140
+    card_fill_color: "#1F1F1F"
+    card_line_color: "#E6E6E6"
+    card_line_width_px: 2
+    label_color: "#FFFFFF"
+    label_height_px: 28
+    label_font: Arial
+    label_wrap_px: 190
+    number_color: "#D9D9D9"
+    number_height_px: 18
+    number_font: Arial
+    number_offset_x_px: 84
+    number_offset_y_px: 48
+    response_prompt_y_px: 250
+    card_positions_px:
+      top_left: [-300, 170]
+      top_right: [300, 170]
+      bottom_left: [-300, -170]
+      bottom_right: [300, -170]
+    quadrant_key_map:
+      top_left: "1"
+      top_right: "2"
+      bottom_left: "3"
+      bottom_right: "4"
+
+
+# === Timing =================================================================
+timing:
+  fixation_duration: 0.5
+  scene_preview_duration: 1.0
+  response_deadline: 2.5
+  iti_duration: 0.6
+
+
+# === Stimuli ================================================================
+stimuli:
+  instruction_text:
+    type: text
+    text: |
+      Visual World Task
+
+      You will see four pictures and hear one sentence.
+      The pictures appear first, then the sentence plays.
+      After the sentence, press 1, 2, 3, or 4 to choose the picture that was named.
+
+      1 = top-left
+      2 = top-right
+      3 = bottom-left
+      4 = bottom-right
+
+      Press SPACE to begin.
+    font: Arial
+    color: white
+    height: 28
+    wrapWidth: 1040
+    pos: [0, 40]
+
+  fixation:
+    type: text
+    text: "+"
+    font: Arial
+    color: white
+    height: 44
+    pos: [0, 0]
+
+  response_prompt:
+    type: text
+    text: "Which picture was named? Press 1, 2, 3, or 4."
+    font: Arial
+    color: white
+    height: 26
+    wrapWidth: 980
+    pos: [0, 250]
+
+  block_break:
+    type: text
+    text: |
+      Block {block_num}/{total_blocks} complete
+      Accuracy: {block_accuracy:.1%}
+      Mean correct RT: {mean_rt_ms:.0f} ms
+      Timeouts: {timeout_count}
+
+      Press SPACE to continue.
+    font: Arial
+    color: white
+    height: 26
+    wrapWidth: 1000
+    pos: [0, 0]
+
+  good_bye:
+    type: text
+    text: |
+      Task complete
+      Trials: {total_trials}
+      Accuracy: {total_accuracy:.1%}
+      Mean correct RT: {mean_rt_ms:.0f} ms
+      Timeouts: {total_timeouts}
+
+      Press SPACE to exit.
+    font: Arial
+    color: white
+    height: 28
+    wrapWidth: 1000
+    pos: [0, 0]
+
+
+# === Triggers ===============================================================
+triggers:
+  map:
+    exp_onset: 1
+    exp_end: 2
+    block_onset: 10
+    block_end: 11
+    fixation_onset: 20
+    scene_preview_onset: 21
+    scene_preview_offset: 22
+    sentence_onset: 23
+    sentence_offset: 24
+    response_window_onset: 30
+    response_1: 31
+    response_2: 32
+    response_3: 33
+    response_4: 34
+    response_timeout: 35
+    iti_onset: 50
+
+sim:
+  output_dir: outputs/sim_sampler
+  seed: 2026
+  participant_id: sim001
+  session_id: sub-sim001_task-T000047_seed2026_sampler
+  log_path: outputs/sim_sampler/sub-sim001_task-T000047_seed2026_sampler_sim_events.jsonl
+  policy: warn
+  default_rt_s: 0.35
+  clamp_rt: false
+  responder:
+    type: responders.task_sampler:TaskSamplerResponder
+    kwargs:
+      hit_rate: 0.85
+      rt_mean_s: 0.42
+      rt_sd_s: 0.09
+      rt_min_s: 0.15
+
+  driver:
+    type: serial_url
+    url: loop://
+    baudrate: 115200
+
+  timing:
+    post_delay_ms: 1
+
+
+# === Generic Controller (optional) =========================================
+controller:
+  seed: 2026
+  shuffle: true
+  enable_logging: true

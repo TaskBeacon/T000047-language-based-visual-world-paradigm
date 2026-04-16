@@ -1,0 +1,1075 @@
+[
+  {
+    "id": "W2897312833",
+    "title": "Gorilla in our midst: An online behavioral experiment builder",
+    "authors": [
+      "Alexander Leslie Anwyl-Irvine",
+      "Jessica Massonni\u00e9",
+      "Adam Flitton",
+      "Natasha Z. Kirkham",
+      "Jo Evershed"
+    ],
+    "year": 2019,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/s13428-019-01237-x",
+    "citation_count": 1874,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2150497272",
+    "title": "A breadth-first survey of eye-tracking applications",
+    "authors": [
+      "Andrew T. Duchowski"
+    ],
+    "year": 2002,
+    "journal": "Behavior Research Methods, Instruments, & Computers",
+    "doi_or_url": "https://doi.org/10.3758/bf03195475",
+    "citation_count": 1053,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2061270248",
+    "title": "QuickSet",
+    "authors": [
+      "Philip R. Cohen",
+      "Michael Johnston",
+      "David R. McGee",
+      "Sharon Oviatt",
+      "Jay Pittman",
+      "Ira Smith",
+      "Liang Chen",
+      "Josh Clow"
+    ],
+    "year": 1997,
+    "journal": "Unknown",
+    "doi_or_url": "https://doi.org/10.1145/266180.266328",
+    "citation_count": 463,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2111291362",
+    "title": "Word meaning and the control of eye fixation: semantic competitor effects and the visual world paradigm",
+    "authors": [
+      "Falk Huettig",
+      "Gerry T. M. Altmann"
+    ],
+    "year": 2004,
+    "journal": "Cognition",
+    "doi_or_url": "https://doi.org/10.1016/j.cognition.2004.10.003",
+    "citation_count": 415,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2062862495",
+    "title": "Is it time to leave behind the Revised Hierarchical Model of bilingual language processing after fifteen years of service?",
+    "authors": [
+      "Marc Brysbaert",
+      "Wouter Duyck"
+    ],
+    "year": 2010,
+    "journal": "Bilingualism Language and Cognition",
+    "doi_or_url": "https://doi.org/10.1017/s1366728909990344",
+    "citation_count": 357,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2782905495",
+    "title": "Quantifying Sources of Variability in Infancy Research Using the Infant-Directed-Speech Preference",
+    "authors": [
+      "Michael C. Frank",
+      "Katie Alcock",
+      "Natalia Arias\u2010Trejo",
+      "Gisa Aschersleben",
+      "Dare A. Baldwin",
+      "St\u00e9phanie Barbu",
+      "Elika Bergelson",
+      "Christina Bergmann",
+      "Alexis K. Black",
+      "Ryan Blything",
+      "Maximilian P. B\u00f6hland",
+      "Petra Bolitho"
+    ],
+    "year": 2020,
+    "journal": "Advances in Methods and Practices in Psychological Science",
+    "doi_or_url": "https://doi.org/10.1177/2515245919900809",
+    "citation_count": 346,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4390954073",
+    "title": "The Past, Present, and Future of the Cognitive Theory of Multimedia Learning",
+    "authors": [
+      "Richard E. Mayer"
+    ],
+    "year": 2024,
+    "journal": "Educational Psychology Review",
+    "doi_or_url": "https://doi.org/10.1007/s10648-023-09842-1",
+    "citation_count": 334,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2164211248",
+    "title": "The tug of war between phonological, semantic and shape information in language-mediated visual search",
+    "authors": [
+      "Falk Huettig",
+      "James M. McQueen"
+    ],
+    "year": 2007,
+    "journal": "Journal of Memory and Language",
+    "doi_or_url": "https://doi.org/10.1016/j.jml.2007.02.001",
+    "citation_count": 315,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2062819913",
+    "title": "On the need for Embodied and Dis-Embodied Cognition",
+    "authors": [
+      "Guy Dove"
+    ],
+    "year": 2011,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2010.00242",
+    "citation_count": 237,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W856330472",
+    "title": "Individual differences in working memory and processing speed predict anticipatory spoken language processing in the visual world",
+    "authors": [
+      "Falk Huettig",
+      "Esther Janse"
+    ],
+    "year": 2015,
+    "journal": "Language Cognition and Neuroscience",
+    "doi_or_url": "https://doi.org/10.1080/23273798.2015.1047459",
+    "citation_count": 234,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1984842965",
+    "title": "On the incrementality of pragmatic processing: An ERP investigation of informativeness and pragmatic abilities",
+    "authors": [
+      "Mante S. Nieuwland",
+      "Tali Ditman",
+      "Gina R. Kuperberg"
+    ],
+    "year": 2010,
+    "journal": "Journal of Memory and Language",
+    "doi_or_url": "https://doi.org/10.1016/j.jml.2010.06.005",
+    "citation_count": 231,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2945612636",
+    "title": "Analyzing the Time Course of Pupillometric Data",
+    "authors": [
+      "Jacolien van Rij",
+      "Petra Hendriks",
+      "Hedderik van Rijn",
+      "R. Harald Baayen",
+      "Simon N. Wood"
+    ],
+    "year": 2019,
+    "journal": "Trends in Hearing",
+    "doi_or_url": "https://doi.org/10.1177/2331216519832483",
+    "citation_count": 225,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1606365662",
+    "title": "Eye Movements and Lexical Access in Spoken-Language Comprehension: Evaluating a Linking Hypothesis between Fixations and Linguistic Processing",
+    "authors": [
+      "Michael K. Tanenhaus",
+      "James S. Magnuson",
+      "Delphine Dahan",
+      "Craig Chambers"
+    ],
+    "year": 2000,
+    "journal": "Journal of Psycholinguistic Research",
+    "doi_or_url": "https://doi.org/10.1023/a:1026464108329",
+    "citation_count": 224,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2140537536",
+    "title": "The role of contrastive intonation contours in the retrieval of contextual alternatives",
+    "authors": [
+      "Bettina Braun",
+      "Lara Tagliapietra"
+    ],
+    "year": 2009,
+    "journal": "Language and Cognitive Processes",
+    "doi_or_url": "https://doi.org/10.1080/01690960903036836",
+    "citation_count": 186,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2158757265",
+    "title": "Stimulating the Brain's Language Network: Syntactic Ambiguity Resolution after TMS to the Inferior Frontal Gyrus and Middle Temporal Gyrus",
+    "authors": [
+      "Daniel J. Acheson",
+      "Peter Hagoort"
+    ],
+    "year": 2013,
+    "journal": "Journal of Cognitive Neuroscience",
+    "doi_or_url": "https://doi.org/10.1162/jocn_a_00430",
+    "citation_count": 183,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1773818422",
+    "title": "Cross-linguistic psycholinguistics and its critical role in theory development: early beginnings and recent advances",
+    "authors": [
+      "Elisabeth Norcliffe",
+      "Alice C. Harris",
+      "T. Florian Jaeger"
+    ],
+    "year": 2015,
+    "journal": "Language Cognition and Neuroscience",
+    "doi_or_url": "https://doi.org/10.1080/23273798.2015.1080373",
+    "citation_count": 169,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2164495629",
+    "title": "Accessing Real-Life Episodic Information from Minutes versus Hours Earlier Modulates Hippocampal and High-Order Cortical Dynamics",
+    "authors": [
+      "Chen Ji",
+      "Christopher J. Honey",
+      "Erez Simony",
+      "Michael J. Arcaro",
+      "Ken Norman",
+      "Uri Hasson"
+    ],
+    "year": 2015,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhv155",
+    "citation_count": 153,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2173935697",
+    "title": "FOUND IN TRANSLATION",
+    "authors": [
+      "Gareth Carrol",
+      "Kathy Conklin",
+      "Henrik Gyllstad"
+    ],
+    "year": 2016,
+    "journal": "Studies in Second Language Acquisition",
+    "doi_or_url": "https://doi.org/10.1017/s0272263115000492",
+    "citation_count": 149,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2299201904",
+    "title": "Processing negation without context \u2013 why and when we represent the positive argument",
+    "authors": [
+      "Ye Tian",
+      "Heather J. Ferguson",
+      "Richard Breheny"
+    ],
+    "year": 2016,
+    "journal": "Language Cognition and Neuroscience",
+    "doi_or_url": "https://doi.org/10.1080/23273798.2016.1140214",
+    "citation_count": 147,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2153099983",
+    "title": "The Interplay between Emotion and Cognition in Autism Spectrum Disorder: Implications for Developmental Theory",
+    "authors": [
+      "Sebastian Gaigg"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Integrative Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnint.2012.00113",
+    "citation_count": 144,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2139582748",
+    "title": "Language Learning and Control in Monolinguals and Bilinguals",
+    "authors": [
+      "James Bartolotti",
+      "Viorica Marian"
+    ],
+    "year": 2012,
+    "journal": "Cognitive Science",
+    "doi_or_url": "https://doi.org/10.1111/j.1551-6709.2012.01243.x",
+    "citation_count": 126,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3015757123",
+    "title": "GazeR: A Package for Processing Gaze Position and Pupil Size Data",
+    "authors": [
+      "Jason Geller",
+      "Matthew B. Winn",
+      "Tristian Mahr",
+      "Daniel Mirman"
+    ],
+    "year": 2020,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/s13428-020-01374-8",
+    "citation_count": 123,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2983252438",
+    "title": "Allocation of Cognitive Resources in Translation: An Eye-tracking and Key-logging Study",
+    "authors": [
+      "Kristian Tangsgaard Hvelplund"
+    ],
+    "year": 2011,
+    "journal": "Econstor (Econstor)",
+    "doi_or_url": "https://openalex.org/W2983252438",
+    "citation_count": 122,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2594104721",
+    "title": "A cognitive load delays predictive eye movements similarly during L1 and L2 comprehension",
+    "authors": [
+      "Aine Ito",
+      "Martin Corley",
+      "Martin J. Pickering"
+    ],
+    "year": 2017,
+    "journal": "Bilingualism Language and Cognition",
+    "doi_or_url": "https://doi.org/10.1017/s1366728917000050",
+    "citation_count": 120,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2049780794",
+    "title": "Parallel language activation during word processing in bilinguals: Evidence from word production in sentence context",
+    "authors": [
+      "Peter A. Starreveld",
+      "Annette M.B. de Groot",
+      "BART M. M. ROSSMARK",
+      "Janet G. van Hell"
+    ],
+    "year": 2013,
+    "journal": "Bilingualism Language and Cognition",
+    "doi_or_url": "https://doi.org/10.1017/s1366728913000308",
+    "citation_count": 112,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2149617766",
+    "title": "Lexical-Semantic Activation in Broca's and Wernicke's Aphasia: Evidence from Eye Movements",
+    "authors": [
+      "Eiling Yee",
+      "Sheila E. Blumstein",
+      "Julie Sedivy"
+    ],
+    "year": 2007,
+    "journal": "Journal of Cognitive Neuroscience",
+    "doi_or_url": "https://doi.org/10.1162/jocn.2008.20056",
+    "citation_count": 111,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2103835244",
+    "title": "The eye-voice span during reading aloud",
+    "authors": [
+      "Jochen Laubrock",
+      "Reinhold Kliegl"
+    ],
+    "year": 2015,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2015.01432",
+    "citation_count": 110,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1965280219",
+    "title": "Linguistic focus and memory: An eye movement study",
+    "authors": [
+      "Peter Maurice Ward",
+      "Patrick Sturt"
+    ],
+    "year": 2007,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/bf03195944",
+    "citation_count": 109,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2164376634",
+    "title": "The use of verb-specific information for prediction in sentence processing",
+    "authors": [
+      "Manabu Arai",
+      "Frank Keller"
+    ],
+    "year": 2012,
+    "journal": "Language and Cognitive Processes",
+    "doi_or_url": "https://doi.org/10.1080/01690965.2012.658072",
+    "citation_count": 106,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4220895812",
+    "title": "Text reading in English as a second language: Evidence from the Multilingual Eye-Movements Corpus",
+    "authors": [
+      "Victor Kuperman",
+      "Noam Siegelman",
+      "Sascha Schroeder",
+      "Cengiz Acart\u00fcrk",
+      "Svetlana Alexeeva",
+      "Simona Amenta",
+      "Raymond Bertram",
+      "Rolando Bonandrini",
+      "Marc Brysbaert",
+      "Daria Chernova",
+      "Sara Maria Da Fonseca",
+      "Nicolas Dirix"
+    ],
+    "year": 2022,
+    "journal": "Studies in Second Language Acquisition",
+    "doi_or_url": "https://doi.org/10.1017/s0272263121000954",
+    "citation_count": 103,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2591348521",
+    "title": "Eye gaze and viewpoint in multimodal interaction management",
+    "authors": [
+      "Geert Br\u00f4ne",
+      "Bert Oben",
+      "Annelies Jehoul",
+      "Jelena Vranjes",
+      "Kurt Feyaerts"
+    ],
+    "year": 2017,
+    "journal": "Cognitive Linguistics",
+    "doi_or_url": "https://doi.org/10.1515/cog-2016-0119",
+    "citation_count": 102,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2111359155",
+    "title": "Looking at anything that is green when hearing \u201cfrog\u201d: How object surface colour and stored object colour knowledge influence language-mediated overt attention",
+    "authors": [
+      "Falk Huettig",
+      "Gerry T. M. Altmann"
+    ],
+    "year": 2010,
+    "journal": "Quarterly Journal of Experimental Psychology",
+    "doi_or_url": "https://doi.org/10.1080/17470218.2010.481474",
+    "citation_count": 102,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2141367812",
+    "title": "The uptake of spectral and temporal cues in vowel perception is rapidly influenced by context",
+    "authors": [
+      "Eva Reinisch",
+      "Matthias J. Sjerps"
+    ],
+    "year": 2013,
+    "journal": "Journal of Phonetics",
+    "doi_or_url": "https://doi.org/10.1016/j.wocn.2013.01.002",
+    "citation_count": 100,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1996595487",
+    "title": "Auditory Artificial Grammar Learning in Macaque and Marmoset Monkeys",
+    "authors": [
+      "Benjamin Wilson",
+      "Heather Slater",
+      "Yukiko Kikuchi",
+      "Alice E. Milne",
+      "William D. Marslen\u2010Wilson",
+      "Kenny Smith",
+      "Christopher I. Petkov"
+    ],
+    "year": 2013,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.2414-13.2013",
+    "citation_count": 100,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1980828472",
+    "title": "Priming sentence planning",
+    "authors": [
+      "Agnieszka E. Konopka",
+      "Antje S. Meyer"
+    ],
+    "year": 2014,
+    "journal": "Cognitive Psychology",
+    "doi_or_url": "https://doi.org/10.1016/j.cogpsych.2014.04.001",
+    "citation_count": 98,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2170341263",
+    "title": "Rapid Linguistic Ambiguity Resolution in Young Children with Autism Spectrum Disorder: Eye Tracking Evidence for the Limits of Weak Central Coherence",
+    "authors": [
+      "No\u00e9mi Hahn",
+      "Jesse Snedeker",
+      "Hugh Rabagliati"
+    ],
+    "year": 2015,
+    "journal": "Autism Research",
+    "doi_or_url": "https://doi.org/10.1002/aur.1487",
+    "citation_count": 97,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1984861324",
+    "title": "Dynamics of activation of semantically similar concepts during spoken word recognition",
+    "authors": [
+      "Daniel Mirman",
+      "James S. Magnuson"
+    ],
+    "year": 2009,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/mc.37.7.1026",
+    "citation_count": 95,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2159515655",
+    "title": "Changing only the probability that spoken words will be distorted changes how they are recognized",
+    "authors": [
+      "James M. McQueen",
+      "Falk Huettig"
+    ],
+    "year": 2012,
+    "journal": "The Journal of the Acoustical Society of America",
+    "doi_or_url": "https://doi.org/10.1121/1.3664087",
+    "citation_count": 94,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2222501808",
+    "title": "Production\u2013comprehension asymmetries and the acquisition of evidential morphology",
+    "authors": [
+      "Ercenur \u00dcnal",
+      "Anna Papafragou"
+    ],
+    "year": 2016,
+    "journal": "Journal of Memory and Language",
+    "doi_or_url": "https://doi.org/10.1016/j.jml.2015.12.001",
+    "citation_count": 94,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2109058354",
+    "title": "The contents of predictions in sentence comprehension: Activation of the shape of objects before they are referred to",
+    "authors": [
+      "Joost Rommers",
+      "Antje S. Meyer",
+      "Peter Praamstra",
+      "Falk Huettig"
+    ],
+    "year": 2012,
+    "journal": "Neuropsychologia",
+    "doi_or_url": "https://doi.org/10.1016/j.neuropsychologia.2012.12.002",
+    "citation_count": 91,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2146789911",
+    "title": "Eyes on the Mind: Investigating the Influence of Gaze Dynamics on the Perception of Others in Real-Time Social Interaction",
+    "authors": [
+      "Ulrich ePfeiffer",
+      "Leonhard eSchilbach",
+      "Mathis Jording",
+      "Bert Timmermans",
+      "Gary Bente",
+      "Kai Vogeley"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2012.00537",
+    "citation_count": 91,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2035789554",
+    "title": "Two-handed gesture in multi-modal natural dialog",
+    "authors": [
+      "Richard A. Bolt",
+      "Edward Joseph Herranz"
+    ],
+    "year": 1992,
+    "journal": "Unknown",
+    "doi_or_url": "https://doi.org/10.1145/142621.142623",
+    "citation_count": 91,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4309368963",
+    "title": "Analysing data from the psycholinguistic visual-world paradigm: Comparison of different analysis methods",
+    "authors": [
+      "Aine Ito",
+      "Pia Knoeferle"
+    ],
+    "year": 2022,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/s13428-022-01969-3",
+    "citation_count": 90,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2100010408",
+    "title": "Who are You Talking About? Tracking Discourse-level Referential Processing with Event-related Brain Potentials",
+    "authors": [
+      "Mante S. Nieuwland",
+      "Marte Otten",
+      "Jos J. A. Van Berkum"
+    ],
+    "year": 2007,
+    "journal": "Journal of Cognitive Neuroscience",
+    "doi_or_url": "https://doi.org/10.1162/jocn.2007.19.2.228",
+    "citation_count": 90,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2157790256",
+    "title": "Anticipating explanations in relative clause processing",
+    "authors": [
+      "Hannah Rohde",
+      "Roger L\u00e9vy",
+      "Andrew Kehler"
+    ],
+    "year": 2011,
+    "journal": "Cognition",
+    "doi_or_url": "https://doi.org/10.1016/j.cognition.2010.10.016",
+    "citation_count": 89,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2281749551",
+    "title": "Talker-Specific Generalization of Pragmatic Inferences based on Under- and Over-Informative Prenominal Adjective Use",
+    "authors": [
+      "Amanda Pogue",
+      "Chigusa Kurumada",
+      "Michael K. Tanenhaus"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2015.02035",
+    "citation_count": 89,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2611195161",
+    "title": "No prediction error cost in reading: Evidence from eye movements",
+    "authors": [
+      "Steven Frisson",
+      "David Harvey",
+      "Adrian Staub"
+    ],
+    "year": 2017,
+    "journal": "Journal of Memory and Language",
+    "doi_or_url": "https://doi.org/10.1016/j.jml.2017.04.007",
+    "citation_count": 87,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3085531777",
+    "title": "Lost in Translation? Challenges in Connecting Reading Science and Educational Practice",
+    "authors": [
+      "Mark S. Seidenberg",
+      "Matthew James Cooper Borkenhagen",
+      "Devin M. Kearns"
+    ],
+    "year": 2020,
+    "journal": "Reading Research Quarterly",
+    "doi_or_url": "https://doi.org/10.1002/rrq.341",
+    "citation_count": 87,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2118611915",
+    "title": "Experimental methods in studying child language acquisition",
+    "authors": [
+      "Ben Ambridge",
+      "Caroline F. Rowland"
+    ],
+    "year": 2013,
+    "journal": "Wiley Interdisciplinary Reviews Cognitive Science",
+    "doi_or_url": "https://doi.org/10.1002/wcs.1215",
+    "citation_count": 85,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3127497409",
+    "title": "Reduced proinsecticide activation by cytochrome P450 confers coumaphos resistance in the major bee parasite <i>Varroa destructor</i>",
+    "authors": [
+      "Spyridon Vlogiannitis",
+      "Konstantinos Mavridis",
+      "Wannes Dermauw",
+      "Simon Snoeck",
+      "Evangelia Katsavou",
+      "Evangelia Morou",
+      "Paschalis C. Harizanis",
+      "Luc Swevers",
+      "Janet Hemingway",
+      "Ren\u00e9 Feyereisen",
+      "Thomas Van Leeuwen",
+      "John Vontas"
+    ],
+    "year": 2021,
+    "journal": "Proceedings of the National Academy of Sciences",
+    "doi_or_url": "https://doi.org/10.1073/pnas.2020380118",
+    "citation_count": 84,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  }
+]
