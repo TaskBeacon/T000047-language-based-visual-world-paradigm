@@ -21,6 +21,14 @@ DEFAULT_CARD_POSITIONS = {
 }
 
 
+def parse_condition(condition: Any) -> str:
+    if isinstance(condition, dict):
+        return str(condition.get("condition", condition.get("condition_label", "baseline")))
+    if isinstance(condition, tuple) and condition:
+        return str(condition[0])
+    return str(condition)
+
+
 def get_trial_spec(settings: Any, condition_label: str) -> dict[str, Any]:
     trial_bank = dict(getattr(settings, "trial_bank", {}) or {})
     label = str(condition_label)

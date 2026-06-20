@@ -5,15 +5,7 @@ from typing import Any
 
 from psyflow import StimUnit, next_trial_id, set_trial_context
 
-from .utils import build_quadrant_scene, get_trial_spec
-
-
-def _parse_condition(condition: Any) -> str:
-    if isinstance(condition, dict):
-        return str(condition.get("condition", condition.get("condition_label", "baseline")))
-    if isinstance(condition, tuple) and condition:
-        return str(condition[0])
-    return str(condition)
+from .utils import build_quadrant_scene, get_trial_spec, parse_condition
 
 
 def _selected_label(display_items: list[dict[str, Any]], response_key: str) -> str:
@@ -35,7 +27,7 @@ def run_trial(
 ):
     """Run one visual-world trial with preview, sentence listening, and keyboard selection."""
     trial_id = int(next_trial_id())
-    condition_label = _parse_condition(condition)
+    condition_label = parse_condition(condition)
     block_id_val = str(block_id) if block_id is not None else "block_0"
     block_idx_val = int(block_idx) if block_idx is not None else 0
 
